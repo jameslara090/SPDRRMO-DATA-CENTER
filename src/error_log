@@ -1,0 +1,80 @@
+[17-Aug-2020 10:11:57 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:12:04 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:12:33 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:12:51 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 02:20:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[17-Aug-2020 10:20:36 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:20:50 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:21:37 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:21:39 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 10:21:47 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 02:29:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[17-Aug-2020 10:30:02 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 02:30:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[17-Aug-2020 02:30:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_admin.php on line 3
+[17-Aug-2020 02:30:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_admin.php on line 3
+[17-Aug-2020 10:31:13 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:35:42 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:35:48 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:36:33 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:36:40 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:37:13 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 10:43:27 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 11:41:39 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 03:47:04 UTC] PHP Notice:  Undefined variable: c in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 107
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 32
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 118
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 50
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 97
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: u_email in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 7
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 9
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 183
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 193
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 197
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 221
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 224
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 306
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 309
+[17-Aug-2020 11:47:04 Asia/Manila] PHP Notice:  Undefined index: dtype in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_typhoon.php on line 309
+[17-Aug-2020 11:47:39 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 03:47:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[17-Aug-2020 11:47:59 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 05:48:23 UTC] PHP Notice:  Undefined variable: c in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 107
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 32
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 118
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 90
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 50
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 97
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined index: u_email in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 7
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 9
+[17-Aug-2020 13:48:23 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:48:32 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:51:33 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 05:51:36 UTC] PHP Notice:  Undefined variable: c in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_admin.php on line 93
+[17-Aug-2020 13:51:36 Asia/Manila] PHP Notice:  Undefined index: user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs_2.php on line 20
+[17-Aug-2020 13:51:36 Asia/Manila] PHP Notice:  Undefined index: user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs_2.php on line 24
+[17-Aug-2020 13:51:36 Asia/Manila] PHP Notice:  Undefined index: email in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/profile.php on line 7
+[17-Aug-2020 13:54:13 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:59:03 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:59:09 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:59:25 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 13:59:31 Asia/Manila] PHP Notice:  Undefined index: user in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/user_home.php on line 138
+[17-Aug-2020 14:04:53 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:04:55 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:05:23 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:06:02 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:06:19 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:06:23 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 14:06:55 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[17-Aug-2020 08:59:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_admin.php on line 3
+[08-Sep-2020 09:22:37 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[08-Sep-2020 04:34:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[08-Sep-2020 04:36:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 3
+[08-Sep-2020 16:24:29 Asia/Manila] PHP Notice:  Undefined variable: times in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/forum.php on line 164
+[08-Sep-2020 22:31:58 UTC] PHP Notice:  Undefined variable: c in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/session/check_user.php on line 107
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 32
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined variable: u_user_id in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/logs.php on line 118
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 50
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_header.php on line 97
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined index: u_email in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 7
+[09-Sep-2020 06:31:59 Asia/Manila] PHP Notice:  Undefined index: u_mun in /home/fesxq53661h4/public_html/datacenter.spdrrmo.org.ph/include/user_profile.php on line 9

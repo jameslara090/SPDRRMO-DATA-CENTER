@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^datacenter\.spdrrmo\.org\.ph$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.datacenter\.spdrrmo\.org\.ph$
+RewriteRule ^/?$ "http\:\/\/datacenter\.spdrrmo\.org\.ph\/login\.php" [R=301,L]
+
